@@ -1,0 +1,7 @@
+Order_Number,Order_Date,Order_Type,Customer_ID,Customer_Name,Customer_State,Sales_region
+1001,2024-01-05,Online,1,"Manisha Singh",Bihar,East
+1002,2024-01-06,Offline,2,"Amit Sharma",Delhi,North
+1003,2024-01-10,Online,3,"Priya Verma",UP,Ramesh
+1004,2024-01-12,Offline,4,"Rahul Mehta",Maharashtra,West
+1005,2024-01-15,Online,5,"Sneha Patel",Gujarat,Anil
+1006,2024-01-18,Offline,6,"Vikram Rao",Karnataka,Sunil
